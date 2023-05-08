@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "369387966617",
+    "project_id": "note-collector-flutter",
+    "storage_bucket": "note-collector-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369387966617:android:ba5f6149c1cc862fe3e808",
+        "android_client_info": {
+          "package_name": "com.alvaradoapps.note_collector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369387966617-lq2iain3hkujpc3h9qcdqet7f5rlgbvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPUKbzoKRnfiFL0OEaJ72lZEBclVOxkNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369387966617-lq2iain3hkujpc3h9qcdqet7f5rlgbvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
