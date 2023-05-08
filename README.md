@@ -1,6 +1,6 @@
 # note_collector
 
-A new Flutter project.
+Note Taking app that is cross platform with Android and IOS. Uses Firebase for authentication and backend data management.
 
 ## Getting Started
 
